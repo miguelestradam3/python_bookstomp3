@@ -1,0 +1,5 @@
+gtts
+python-docx
+PyPDF2
+PyPDF2[crypto]
+pytest
